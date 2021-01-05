@@ -1,0 +1,7 @@
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\bin\Debug\BMI_AfiyeHavvaGecgel.exe.config
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\bin\Debug\BMI_AfiyeHavvaGecgel.exe
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\bin\Debug\BMI_AfiyeHavvaGecgel.pdb
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\obj\Debug\BMI_AfiyeHavvaGecgel.csprojAssemblyReference.cache
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\obj\Debug\BMI_AfiyeHavvaGecgel.csproj.CoreCompileInputs.cache
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\obj\Debug\BMI_AfiyeHavvaGecgel.exe
+C:\Users\afiye.gecgel\source\repos\BMI_AfiyeHavvaGecgel\BMI_AfiyeHavvaGecgel\obj\Debug\BMI_AfiyeHavvaGecgel.pdb
