@@ -1,0 +1,2 @@
+# BMI_AfiyeHavvaGecgel
+TurkcellGelegegiYazanlar_.NET_HW1
